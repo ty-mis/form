@@ -1,0 +1,6 @@
+D:\form\form\tomlib\bin\Debug\tomlib.dll
+D:\form\form\tomlib\bin\Debug\tomlib.pdb
+D:\form\form\tomlib\obj\Debug\tomlib.dll
+D:\form\form\tomlib\obj\Debug\tomlib.pdb
+D:\form\form\tomlib\obj\Debug\tomlib.csprojAssemblyReference.cache
+D:\form\form\tomlib\obj\Debug\tomlib.csproj.CoreCompileInputs.cache

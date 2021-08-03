@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="intranet2" Class="DbDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=192.168.0.103,5050;Initial Catalog=intranet2;Persist Security Info=True;User ID=intramgr" SettingsObjectName="form.Properties.Settings" SettingsPropertyName="intranet2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.in2" Member="in2">
+    <Type Name="in2">
+      <Column Name="in1num" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="pl1no" Type="System.String" DbType="Char(4) NOT NULL" CanBeNull="false" />
+      <Column Name="bk1date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="bk1wek" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="bk1cah" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1oth2" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1oth" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1opn" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1not" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="bk1mon2" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1mon3" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="pe1no" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="in1keyin" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="bk1cash1" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="bk1cash2" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

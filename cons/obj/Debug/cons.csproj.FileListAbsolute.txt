@@ -1,0 +1,8 @@
+D:\form\form\cons\bin\Debug\cons.exe.config
+D:\form\form\cons\bin\Debug\cons.exe
+D:\form\form\cons\bin\Debug\cons.pdb
+D:\form\form\cons\bin\Debug\tomlib.dll
+D:\form\form\cons\bin\Debug\tomlib.pdb
+D:\form\form\cons\obj\Debug\cons.csprojResolveAssemblyReference.cache
+D:\form\form\cons\obj\Debug\cons.exe
+D:\form\form\cons\obj\Debug\cons.pdb

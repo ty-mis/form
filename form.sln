@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form", "form\form.csproj", "{8D916384-0524-4A89-801A-92A0B7DFB8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tomlib", "tomlib\tomlib.csproj", "{34773D60-479F-48B1-AF6C-8086D1C5A9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D916384-0524-4A89-801A-92A0B7DFB8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D916384-0524-4A89-801A-92A0B7DFB8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D916384-0524-4A89-801A-92A0B7DFB8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D916384-0524-4A89-801A-92A0B7DFB8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34773D60-479F-48B1-AF6C-8086D1C5A9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34773D60-479F-48B1-AF6C-8086D1C5A9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34773D60-479F-48B1-AF6C-8086D1C5A9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34773D60-479F-48B1-AF6C-8086D1C5A9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3758C0E-428A-4DB5-9FD8-1C1B1E3A08D7}
+	EndGlobalSection
+EndGlobal
